@@ -40,4 +40,17 @@ usw....
 
 
 
+
+
+
+:: !! squirrel logic :: build your indexes......... 
+
+:: document <wild>index [ the limbo dancing clients
+x--------------------------------------------------
+* type: limbo-dancing-clients 
+* indexes [100, 200, 400, 1010101]
+x--------------------------------------------------
+
+
+
 yearh
