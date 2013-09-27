@@ -1,0 +1,52 @@
+
+wow bow organisation of coutchbase : coutchdb documents: 
+
+   but now: 
+
+
+
+:: document user ::::::::::::::::::
+x----------------------------------
+x id: 100001
+x type: user
+x dogs: [1001]
+x notifications: [10, 12, 100]
+x...
+x----------------------------------
+
+
+
+
+
+::: document dog ::::::::::::::::::
+x----------------------------------
+x id: 1001
+x type: dog
+x owners: [10001, 20002]
+x ...
+x----------------------------------
+
+
+
+
+::: document notification :::::::::
+x----------------------------------
+x id: 10
+x owner: 10001
+x receivers: [2, 45, 20, 50]
+x message: "i bet, he would, mam!"
+x created: 0
+x delete: false
+x ...
+x----------------------------------
+
+
+...
+
+szaros vuk systems [no fear] : 2013
+
+
+[ ich will immer, und immer mehr! ]
+
+
+
