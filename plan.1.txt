@@ -4,13 +4,13 @@ wow bow organisation of coutchbase : coutchdb documents:
 
    but now: 
 
-:: document user ::::::::::::::::::
-x----------------------------------
-x id: 100001
-x type: user
-x dogs: [1001]
-x messages-sent: [10, 12, 100]
-x messages-received: [29]
+:: document user ::::::::::::::::::						:: document :::::::::::::::::::::::::::::::::::     			ALTER TABLE <name> ADD <column> <def>
+x----------------------------------						x----------------------------------------------
+x id: 100001									x users: [user:[id:name:..]]
+x type: user									x dogs: [dog[id:name:...]]
+x dogs: [1001]									x messages: [message[id:name...]] 
+x messages-sent: [10, 12, 100]							x ...
+x messages-received: [29]							x----------------------------------------------
 x...
 x----------------------------------
 
@@ -20,7 +20,7 @@ x----------------------------------
 	x id: 1001
 	x type: dog
 	x owners: [10001, 20002]
-	x ...
+	x ...								vs. 								vs. 
 	x----------------------------------
 
 
@@ -53,4 +53,5 @@ x--------------------------------------------------
 
 
 
-yearh
+knifflig....
+
