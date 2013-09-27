@@ -3,8 +3,6 @@ wow bow organisation of coutchbase : coutchdb documents:
 
    but now: 
 
-
-
 :: document user ::::::::::::::::::
 x----------------------------------
 x id: 100001
@@ -15,9 +13,6 @@ x...
 x----------------------------------
 
 
-
-
-
 ::: document dog ::::::::::::::::::
 x----------------------------------
 x id: 1001
@@ -25,8 +20,6 @@ x type: dog
 x owners: [10001, 20002]
 x ...
 x----------------------------------
-
-
 
 
 ::: document notification :::::::::
@@ -40,14 +33,12 @@ x deleted: false
 x ...
 x----------------------------------
 
+usw....
 
-...
 
 szaros vuk systems [no fear] : 2013
 
-
 [ ich will immer, und immer mehr! ]
-
 
 damit du nicht so viel suchen musst 
 squirrel
