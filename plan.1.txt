@@ -9,8 +9,8 @@ x----------------------------------
 x id: 100001
 x type: user
 x dogs: [1001]
-x notifications-sent: [10, 12, 100]
-x notifications-received: [29]
+x messages-sent: [10, 12, 100]
+x messages-received: [29]
 x...
 x----------------------------------
 
@@ -24,7 +24,7 @@ x----------------------------------
 	x----------------------------------
 
 
-		::: document notification :::::::::
+		::: document message ::::::::::::::
 		x----------------------------------
 		x id: 10
 		x owner: 10001
