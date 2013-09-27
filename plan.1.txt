@@ -36,7 +36,7 @@ x owner: 10001
 x receivers: [2, 45, 20, 50]
 x message: "i bet, he would, mam!"
 x created: 0
-x delete: false
+x deleted: false
 x ...
 x----------------------------------
 
@@ -49,4 +49,5 @@ szaros vuk systems [no fear] : 2013
 [ ich will immer, und immer mehr! ]
 
 
-
+damit du nicht so viel suchen musst 
+squirrel
